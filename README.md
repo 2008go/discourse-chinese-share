@@ -34,8 +34,8 @@ hooks:
 
 ## Changelog
 
-Current version: 0.1.1
-
+Current version: 0.1.2
+0.1.2: 调整微信分享弹出窗口尺寸
 0.1.1: 修复安装后无法看到分享按钮的问题
 
 
