@@ -31,7 +31,7 @@ export default {
         return "http://s.jiathis.com/qrcode.php?url=" + encodeURIComponent(link);
       },
       shouldOpenInPopup: true,
-      popupHeight: 200
+      popupHeight: 140
     });
   }
 }
